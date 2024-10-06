@@ -1,1 +1,21 @@
 /* В этом файле будут храниться все значения переменных в исходном состоянии, а так же их изменения в зависимости от ширины устройства */
+:root {
+    --main-font: 'Inter', sans-serif;
+    --acсent-font: 'Press Start 2P', monospace;
+    --font-weight-main-text: 400;
+    --font-weight-header: 700;
+    --font-size: 18px;
+    --header-font-size: clamp(3.0625rem, 2.7104rem + 1.5023vw, 4.0625rem);
+    --header-content-font-size:clamp(0.875rem, 0.6769rem + 0.8451vw, 1.4375rem);
+    --section-title-font-size: clamp(1.3625rem, 1.4461rem + -0.3568vw, 1.125rem);
+    --width: clamp(375px, 50%, 700px);
+    --line-height-main-text: 21px;
+    --line-height-header-text: 21.78px;
+    --acсent-color: #000000;
+    --background-color: #FFFFFF;
+    --background-gradient-color: #d3d3d3;
+    --linear-gradient-from: #e7e7e7;
+    --linear-gradient-to: #1a1a1a;
+    --image-border: none;
+    --activ-menu-color: rgba(0, 0, 0, 0.6);
+}
