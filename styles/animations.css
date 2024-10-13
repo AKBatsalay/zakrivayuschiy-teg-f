@@ -17,13 +17,11 @@
 
 @keyframes hesitation {
     0% {
-      transform: translate(0);
+      right: 96px;;
     }
-   50% {
-       transform: translate(4px);
-   }
+   
     100% {
-      transform: translate(0);
+      right: 100px;
     }
   }
 

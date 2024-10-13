@@ -16,7 +16,7 @@
     --background-gradient-color: #d3d3d3;
     --linear-gradient-from: #e7e7e7;
     --linear-gradient-to: #1a1a1a;
-    --activ-menu-color: rgba(0, 0, 0, 0.5);
+    --activ-menu-color: rgba(0, 0, 0, 0.6);
     --lable-text-shadow: rgba(255, 255, 255, 0.5);
     --image-border: none;
     --blend-color: #FFFFFF;
@@ -33,7 +33,7 @@
     --linear-gradient-from: #007f0c;
     --linear-gradient-to: #004306;
     --image-border: 2px solid #00CC14;
-    --activ-menu-color: rgba(0, 204, 0, 0.5);
+    --activ-menu-color: rgba(0, 204, 0, 0.6);
     --lable-text-shadow: rgba(0, 0, 0, 0.5);
     --blend-color: #00CC14; 
        
@@ -51,7 +51,7 @@
     --linear-gradient-from: #007f0c;
     --linear-gradient-to: #004306;  
     --image-border: 2px solid #00CC14; 
-    --activ-menu-color: rgba(0, 204, 0, 0.5); 
+    --activ-menu-color: rgba(0, 204, 0, 0.); 
     --lable-text-shadow: rgba(0, 0, 0, 0.5);   
     --blend-color: #00CC14; 
     }
