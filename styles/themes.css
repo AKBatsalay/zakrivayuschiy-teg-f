@@ -33,7 +33,7 @@
     --linear-gradient-from: #007f0c;
     --linear-gradient-to: #004306;
     --image-border: 2px solid #00CC14;
-    --activ-menu-color: rgba(0, 204, 0, 0.6);
+    --activ-menu-color: rgba(0, 204, 20, 0.6); 
     --lable-text-shadow: rgba(0, 0, 0, 0.5);
     --blend-color: #00CC14; 
        
@@ -51,7 +51,7 @@
     --linear-gradient-from: #007f0c;
     --linear-gradient-to: #004306;  
     --image-border: 2px solid #00CC14; 
-    --activ-menu-color: rgba(0, 204, 0, 0.); 
+    --activ-menu-color: rgba(0, 204, 20, 0.6); 
     --lable-text-shadow: rgba(0, 0, 0, 0.5);   
     --blend-color: #00CC14; 
     }
